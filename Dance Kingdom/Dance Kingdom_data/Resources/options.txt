@@ -1,0 +1,6 @@
+musicVolume:0,5
+fxVolume:0,5
+brightnessLvl:0,5
+fullScreen:True
+resolution:1920:1080
+GlobalVars.globalVars.keyBinds:street:Q:shop:W:troop:E:aUp:UpArrow:aDown:DownArrow:aLeft:LeftArrow:aRight:RightArrow

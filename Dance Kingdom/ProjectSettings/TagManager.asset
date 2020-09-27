@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Activator
+  - Arrow
+  - AllySquire
+  - AllyArcher
+  - AllyKnight
+  - EnemySquire
+  - EnemyArcher
+  - EnemyKnight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Arrows
+  - Buttons
+  - AllyTroops
+  - EnemyTroops
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buttons
+    uniqueID: 902712949
+    locked: 0
+  - name: Arrows
+    uniqueID: 249980167
+    locked: 0
+  - name: UI_SL
+    uniqueID: 513882605
+    locked: 0

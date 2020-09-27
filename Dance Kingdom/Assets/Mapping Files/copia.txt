@@ -1,0 +1,195 @@
+Flecha - Altura Y
+ArrowUp - 6,557
+ArrowLeft - 8,043
+ArrowUp - 9,607
+ArrowRight - 11,097
+ArrowDown - 12,642
+ArrowUp - 14,169
+ArrowDown - 15,656
+ArrowLeft - 17,106
+ArrowUp - 18,71
+ArrowDown - 20,157
+ArrowLeft - 21,743
+ArrowLeft - 23,232
+ArrowDown - 24,816
+ArrowRight - 26,379
+ArrowUp - 27,943
+ArrowDown - 29,508
+ArrowRight - 31,054
+ArrowUp - 32,563
+ArrowLeft - 34,164
+ArrowRight - 35,613
+ArrowDown - 37,141
+ArrowUp - 38,665
+ArrowUp - 40,27
+ArrowRight - 41,797
+ArrowDown - 43,264
+ArrowRight - 44,866
+ArrowLeft - 46,357
+ArrowLeft - 47,901
+ArrowDown - 49,39
+ArrowUp - 50,937
+ArrowLeft - 52,502
+ArrowLeft - 54,088
+ArrowDown - 55,64
+ArrowRight - 57,111
+ArrowUp - 58,62
+ArrowUp - 60,182
+ArrowLeft - 61,656
+ArrowDown - 63,105
+ArrowRight - 64,731
+ArrowRight - 66,3
+ArrowUp - 67,847
+ArrowUp - 69,354
+ArrowDown - 70,826
+ArrowDown - 72,341
+ArrowRight - 73,153
+ArrowUp - 73,923
+ArrowUp - 75,471
+ArrowLeft - 77,098
+ArrowLeft - 78,53
+ArrowUp - 80,102
+ArrowDown - 81,636
+ArrowLeft - 83,146
+ArrowUp - 84,676
+ArrowDown - 86,169
+
+ArrowUp - 90,139
+ArrowDown - 92,036
+ArrowRight - 93,974
+ArrowLeft - 95,908
+
+ArrowUp - 97,962
+ArrowDown - 99,929
+ArrowUp - 101,979
+ArrowRight - 103,994
+
+ArrowLeft - 105,977
+ArrowLeft - 106,942
+ArrowRight - 107,917
+ArrowRight - 108,884
+
+ArrowDown - 109,89
+ArrowDown - 110,817
+ArrowUp - 111,941
+ArrowUp - 112,946
+
+ArrowLeft - 113,991
+ArrowRight - 115
+ArrowLeft - 115,963
+ArrowRight - 116,966
+
+ArrowUp - 117,861
+ArrowDown - 118,985
+ArrowUp - 119,954
+ArrowDown - 121
+
+ArrowRight - 121,931
+ArrowRight - 122,861
+ArrowUp - 123,862
+ArrowUp - 124,908
+
+ArrowDown - 125,955
+ArrowLeft - 126,882
+ArrowDown - 127,773
+ArrowLeft - 128,857
+
+ArrowUp - 129,864
+ArrowUp - 130,869
+ArrowLeft - 131,795
+ArrowLeft - 132,881
+
+ArrowRight - 133,928
+ArrowDown - 134,975
+ArrowRight - 136,022
+ArrowDown - 136,916
+
+ArrowUp - 138,036
+ArrowLeft - 138,075
+ArrowUp - 139,001
+ArrowRight - 140,162
+
+ArrowRight - 141,129
+ArrowDown - 142,097
+ArrowDown - 143,102
+ArrowUp - 144,147
+
+ArrowUp - 145,149
+ArrowDown - 146,043
+ArrowDown - 146,97
+ArrowLeft - 148,054
+
+ArrowLeft - 149,06
+ArrowUp - 149,954
+ArrowLeft - 150,879
+ArrowUp - 151,999
+
+ArrowDown - 152,966
+ArrowRight - 154,009
+ArrowUp - 155,985
+ArrowLeft - 157,918
+
+ArrowDown - 160,003
+ArrowUp - 162,011
+ArrowUp - 164,056
+ArrowRight - 166,073
+
+ArrowDown - 167,933
+ArrowRight - 169,982
+ArrowLeft - 171,953
+ArrowUp - 174,006
+
+ArrowDown - 175,899
+ArrowDown - 177,949
+ArrowLeft - 179,886
+ArrowLeft - 181,976
+
+ArrowUp - 182,946
+ArrowRight - 183,913
+ArrowUp - 184,879
+ArrowDown - 185,962
+
+ArrowUp - 187,854
+ArrowRight - 189,975
+ArrowRight - 192,069
+ArrowLeft - 193,998
+
+ArrowLeft - 195,898
+ArrowDown - 197,87
+ArrowUp - 199,991
+ArrowRight - 201,963
+
+ArrowRight - 204,009
+ArrowDown - 205,942
+ArrowRight - 207,991
+ArrowLeft - 209,969
+
+ArrowUp - 212,066
+ArrowRight - 213,927
+ArrowDown - 215,938
+ArrowLeft - 217,946
+
+ArrowRight - 219,916
+ArrowUp - 221,891
+ArrowDown - 223,934
+ArrowRight - 225,948
+
+ArrowUp - 227,954
+ArrowDown - 229,932
+ArrowRight - 230,9
+ArrowLeft - 231,942
+
+ArrowLeft - 232,909
+ArrowUp - 233,873
+ArrowRight - 234,919
+ArrowDown - 235,849
+
+ArrowRight - 236,965
+ArrowUp - 237,933
+ArrowUp - 239,986
+ArrowLeft - 242,038
+
+ArrowRight - 242,968
+ArrowUp - 243,935
+ArrowDown - 244,942
+ArrowUp - 245,915

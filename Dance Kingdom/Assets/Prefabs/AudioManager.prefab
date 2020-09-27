@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6355041878132690684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6355041878132690682}
+  - component: {fileID: 6355041878132690683}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6355041878132690682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6355041878132690684}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6355041878132690683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6355041878132690684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cabf813b4f767474d9d8ffce79b33082, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  music:
+  - name: MainTheme
+    clip: {fileID: 8300000, guid: b3871bc0ab8722147af36cdddce4ea72, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: EasySong
+    clip: {fileID: 8300000, guid: d2218ce1e2459534ca3d11235159d45c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: NormalSong
+    clip: {fileID: 8300000, guid: 9ea1d1e9660fc384fa046830fa2f5ab0, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: HardSong
+    clip: {fileID: 8300000, guid: 05e81908f7dc83a40b00b190ae9841b6, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  sounds:
+  - name: Button
+    clip: {fileID: 8300000, guid: 50dd0fff98d6a4c43ba94f04637c7ded, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Gold
+    clip: {fileID: 8300000, guid: b29963d594af0e5449e7eaaa300a3a88, type: 3}
+    volume: 1
+    pitch: 0.75
+    loop: 0
+    source: {fileID: 0}
+  - name: SquireHit
+    clip: {fileID: 8300000, guid: ca8be99190ec4a94eac6ee84a23ec02d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ArcherHit
+    clip: {fileID: 8300000, guid: 1cc3126a823364f4fb192fb6a45cc55a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: KnightHit
+    clip: {fileID: 8300000, guid: 8aa68627f94888a4bb24b1cf48c09d95, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Rocks
+    clip: {fileID: 8300000, guid: 1f0b4f923a341db42a2903ab83debebb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
